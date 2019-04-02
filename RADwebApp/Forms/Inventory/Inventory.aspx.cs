@@ -3,7 +3,7 @@
  * Done by: Fabio Ribas
  * Designed by: Filip Lyesovyy
  * Last modified: 2018-12-12
- * */
+ **/
 
 using System;
 using System.Collections.Generic;
